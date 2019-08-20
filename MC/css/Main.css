@@ -1,0 +1,90 @@
+body{
+	background-image: url("../imgs/bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:top center;
+}
+
+.web_page {
+	width: 1026px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.web_page .web_header {
+	width: 1026px;
+}
+
+.web_page .web_header .web_logo{
+	margin-top:33px;
+	width: 1026px;
+	height: 152px;
+	background-image: url("../imgs/logo_alt.png");
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.web_page .web_top_menue ul {
+	width: 100%;
+	font-style: italic;
+	font-variant: petite-caps;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.web_page .web_top_menue ul li {
+	height: 35px;
+	background-color: #333;
+	width: 180.8px;
+	float: left;
+	text-shadow: 1px 1px 1px #000;
+	display: block;
+	margin-top: -13px;
+	color: #FFF;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-left: -40px;
+}
+
+.web_page .web_top_menue ul li:hover {
+	height:35px;
+	cursor: pointer;
+	background-color: #555;
+	width: 180.8px;
+	float: left;
+	text-shadow: 1px 1px 1px #000;
+	display: block;
+	margin-top: -13px;
+	color: #FFF;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-left: -40px;
+}
+
+.web_page .web_content {
+	height:35px;
+	width: 1026px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.web_page .web_content .contant {
+	width:65%;
+	height:15px;
+	float:left;
+	background-color:red;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.web_page .web_content .side_bar{
+	width:35%;
+	height:15px;
+	float:right;
+	background-color:green;
+	margin-left: auto;
+	margin-right: auto;
+} 
