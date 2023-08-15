@@ -23,13 +23,15 @@ Clone the Repository: Clone this repository to your local machine using the foll
 
 ```
 git clone https://github.com/PassCody/ChromatiXCMS.git
-Navigate to the Project Directory: Move into the cloned repository's directory:
 ```
+Navigate to the Project Directory: Move into the cloned repository's directory:
+
 
 ```
 cd ChromatiXCMS
-Run the Project: Depending on the project structure, you might need to follow specific instructions provided in the repository's documentation to run the CMS.
 ```
+Run the Project: Depending on the project structure, you might need to follow specific instructions provided in the repository's documentation to run the CMS.
+
 
 ### Here is the TeamSpeak Viewer Config:
 ```
