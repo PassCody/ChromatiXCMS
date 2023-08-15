@@ -53,7 +53,7 @@ As the developer continues to improve their skills and enhance this project, the
 
 ## License
 
-ChromatiXCMS is under the MIT License. You are free to use, modify, and distribute the code according to the terms of the license.
+ChromatiXCMS is under the [MIT License](LICENSE). You are free to use, modify, and distribute the code according to the terms of the license.
 
 Please be aware that while the project might not be code-optimized, it represents a significant step in the developer's journey and showcases their growth and development.
 
