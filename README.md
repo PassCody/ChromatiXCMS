@@ -1,7 +1,5 @@
 # ChromatiXCMS
 
-This is a Test CMS so it isn't perfect or working perfect.
-
 Welcome to the ChromatiXCMS repository! This is a project aimed at providing a Content Management System (CMS) with a focus on vibrant and eye-catching designs. Please note that this is the first major project by the developer and might not be fully optimized in terms of code.
 
 ## About ChromatiXCMS
