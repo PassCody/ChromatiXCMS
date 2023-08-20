@@ -3,7 +3,7 @@
 
 # ChromatiXCMS
 
-Welcome to the ChromatiXCMS repository! This is a project aimed at providing a Content Management System (CMS) with a focus on vibrant and eye-catching designs. Please note that this is the first major project by the developer and might not be fully optimized in terms of code.
+Welcome to the ChromatiXCMS repository! This is a project that aims to provide a Content Management System (CMS) with an emphasis on vibrant and eye-catching designs. Please note that this is the developer's first major project and may not be fully optimized in terms of code. Furthermore, this CMS aims at the gaming community. So it should not be used like Joomla or other free CMS for general use.
 
 ## About ChromatiXCMS
 ChromatiXCMS is a creative and ambitious attempt at developing a CMS that emphasizes visually stunning websites. The project seeks to break away from conventional CMS designs and explores the world of vibrant colors, modern UI elements, and a user-centric approach.
