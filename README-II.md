@@ -2,12 +2,14 @@
 
 This reposetory is currently on code rework.
 This includes:
-> code rewrite in PHP 8<br>
-> code in OOP<br>
-> including [PHP_Auto_ClassLoader](https://github.com/PassCody/PHP_Auto_ClassLoader)<br>
-> including [AutoBootStrapLoader](https://github.com/PassCody/AutoBootStrapLoader)<br>
-> including Dark- and Light-mode feature<br>
-> consideration of clean code<br>
-> optimicing install process<br>
-> optimicing user registration<br>
-> optimicing demotion and promotion system<br>
+<ol>
+  <li>code rewrite in PHP 8</li>
+  <li>code in OOP</li>
+  <li>including [PHP_Auto_ClassLoader](https://github.com/PassCody/PHP_Auto_ClassLoader)</li>
+  <li>including [AutoBootStrapLoader](https://github.com/PassCody/AutoBootStrapLoader)</li>
+  <li>including Dark- and Light-mode feature</li>
+  <li>consideration of clean code</li>
+  <li>optimicing install process</li>
+  <li>optimicing user registration</li>
+  <li>optimicing demotion and promotion system</li>
+</ol>
