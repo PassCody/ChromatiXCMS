@@ -1,3 +1,6 @@
+# Currently under rework
+[What changes will come](https://github.com/PassCody/ChromatiXCMS/blob/master/README-II.md)
+
 # ChromatiXCMS
 
 Welcome to the ChromatiXCMS repository! This is a project aimed at providing a Content Management System (CMS) with a focus on vibrant and eye-catching designs. Please note that this is the first major project by the developer and might not be fully optimized in terms of code.
