@@ -1,6 +1,4 @@
-# !!!IMPORTANT !!!
-
-This reposetory is currently on code rework.
+# This reposetory is currently on code rework.
 This includes:
 <ol>
   <li>code rewrite in PHP 8.2.4</li>
