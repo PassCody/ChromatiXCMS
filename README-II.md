@@ -1,5 +1,5 @@
 # This reposetory is currently on code rework.
-This includes:
+This changes will come in the future:
 <ol>
   <li>code rewrite in PHP 8.2.4</li>
   <li>code in OOP</li>
