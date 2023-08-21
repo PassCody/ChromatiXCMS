@@ -1,0 +1,35 @@
+"use strict";
+if (navigator.language === "de-DE") {
+    let domain_name = document.getElementById("domain_name");
+    let project_name = document.getElementById("project_name");
+    let db_ip = document.getElementById("db_ip");
+    let db_port = document.getElementById("db_port");
+    let db_user = document.getElementById("db_user");
+    let db_key = document.getElementById("db_key");
+    let db_name = document.getElementById("db_name");
+    let f_name = document.getElementById("f_name");
+    let l_name = document.getElementById("l_name");
+    let street = document.getElementById("street");
+    let p_code = document.getElementById("p_code");
+    let country = document.getElementById("country");
+    let e_mail = document.getElementById("e_mail");
+    let domain_Settings = document.getElementById("domain-Settings");
+    let database_Settings = document.getElementById("database-Settings");
+    let private_Stuff = document.getElementById("private-Stuff");
+    domain_name.innerHTML = "Domain:";
+    project_name.innerHTML = "Projektname:";
+    db_ip.innerHTML = "Datenbank IP:";
+    db_port.innerHTML = "Datenbank Port:";
+    db_user.innerHTML = "Datenbankbenutzer:";
+    db_key.innerHTML = "Datenbankbenutzer Passwort:";
+    db_name.innerHTML = "Datenbank Name:";
+    f_name.innerHTML = "Vorname:";
+    l_name.innerHTML = "Nachname:";
+    street.innerHTML = "Straße, Hausnummer:";
+    p_code.innerHTML = "Postleitzahl und Bundesland:";
+    country.innerHTML = "Land:";
+    e_mail.innerHTML = "Kontakt E-mail:";
+    domain_Settings.innerHTML = "Domäneneinstellungen:";
+    database_Settings.innerHTML = "Datenbankeinstellungen:";
+    private_Stuff.innerHTML = "Privates:";
+}
