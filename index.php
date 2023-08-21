@@ -39,7 +39,6 @@
 				<script type="text/javascript" src="./src/tools/js/Dark-Light-Mode.js"></script>
 				<script type="text/javascript" src="./src/tools/js/install-translation.js"></script>
 			');
-			//print_r($cl->getObjects());
 		?>
 	</body>
 </html>
