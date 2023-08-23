@@ -223,7 +223,7 @@
         FUNCTION completeInstall() {
             unlink("../ChromatiXCMSInstaller.php");
             unlink("installer.php");
-            rmdir("../ChromatiXCMSInstaller");
+            unlink("../ChromatiXCMSInstaller");
         }
     }
 ?>
