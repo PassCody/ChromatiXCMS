@@ -17,6 +17,7 @@
         }
         $installation->writeConfig($paths[1]);
         $installation->createSQLDataBase();
+        $installation->completeInstall();
         header('Location: ../../../../../index.php');
     }
     else {
@@ -217,6 +218,12 @@
 
         FUNCTION getPostRequest() {
             return $this->postRequest;
+        }
+
+        FUNCTION completeInstall() {
+            unlink("../ChromatiXCMSInstaller.php");
+            unlink("installer.php");
+            rmdir("../ChromatiXCMSInstaller");
         }
     }
 ?>
