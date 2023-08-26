@@ -3,7 +3,7 @@
         private $page, $path = "Pages";
         FUNCTION main($super) {
             $this->path = $super->getPath().$this->path;
-            //print_r($this);
+            include_once($this->path."/index.php");
         }
     }
 ?>

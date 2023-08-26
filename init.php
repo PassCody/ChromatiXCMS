@@ -6,9 +6,7 @@
 		
 		function getFileLocation() {
 			$value = "";
-			if (isset($_SERVER["REQUEST_URI"]) AND $_SERVER["REQUEST_URI"] !== "") {
-				$value = $_SERVER["REQUEST_URI"];
-			}
+			$value = $_SERVER["REQUEST_URI"];
 			return($value);
 		}
 		

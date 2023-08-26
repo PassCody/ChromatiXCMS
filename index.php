@@ -30,10 +30,10 @@
 			$cl = new ClassLoader();
 			$cl->printPath($init->getMainDir());
 			if (file_exists('./src/tools/config/config.php')) {
-
+				$cl->getObjects()["pl"]->main($cl);
 			}
 			else {
-				print_r($cl->getObjects()["cxcmsi"]->main($cl));
+				$cl->getObjects()["cxcmsi"]->main($cl);
 			}
 			echo('
 				<script type="text/javascript" src="./src/tools/js/Dark-Light-Mode.js"></script>

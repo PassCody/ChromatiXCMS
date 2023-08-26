@@ -60,3 +60,33 @@
 .mode_type {
     cursor: pointer;
 }
+
+.cximage.csgo {
+    width: 385px;
+    height: 478px;
+    background-image: url(../../imgs/CS_GO.jpg);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.cximage.csgo:hover {
+    width: 385px;
+    height: 478px;
+    background-image: url(../../imgs/CS_GO_hover.jpg);
+    transition: 1s;
+}
+
+.cximage.mc {
+    width: 385px;
+    height: 478px;
+    background-image: url(../../imgs/Minecraft.jpg);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.cximage.mc:hover {
+    width: 385px;
+    height: 478px;
+    background-image: url(../../imgs/Minecraft_hover.jpg);
+    transition: 1s;
+}
