@@ -25,7 +25,7 @@
 		
 		function getCurrentDirectoryForBS() {
 			$dirForBS = "";
-			$dirForBS .= $this->getMainDir()."./Libarys/bootstrap";
+			$dirForBS .= $this->getMainDir()."./Libraries/bootstrap";
 			return $dirForBS;
 		}
 		

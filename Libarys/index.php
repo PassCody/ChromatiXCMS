@@ -72,7 +72,7 @@
 						$dir = $dir."../";
 					}
 				}
-				$dir = $dir."./Libarys/bootstrap";
+				$dir = $dir."./Libraries/bootstrap";
 				return $dir;
 			}
 			function setDirect($dir) {
