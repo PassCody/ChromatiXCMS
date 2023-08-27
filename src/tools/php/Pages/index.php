@@ -18,6 +18,19 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm"></div>
+                        <div class="col-sm-6">
+                            <a href="./">
+                                <div class="cximage logo"></div>
+                            </a>
+                        </div>
+                        <div class="col-sm"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm"></div>
                         <div class="col-sm-3">
                             <a href="./CSGO">
                                 <div class="cximage csgo"></div>
