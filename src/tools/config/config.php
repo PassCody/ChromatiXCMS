@@ -1,19 +1,19 @@
 <?php
             /* General Stuff */
-                $d_name            = 'ChromatiXCMS';             /* Domain */
-                $p_name            = 'ChromatiX-CMS';            /* Project Name */
+                $d_name            = '';                 /* Domain */
+                $p_name            = '';                 /* Project Name */
             /* Database Connection */
-                $db_ip             = '127.0.0.1';                   /* DataBase IP */
-                $db_port           = '3306';                 /* DataBase Port */
-                $db_user           = 'WebMaster';                 /* DataBase User */
-                $db_password       = 'MamwBh2017!';                  /* DataBase Password */
-                $db_name           = 'ChromatiXCMS';                 /* DataBase Name */
+                $db_ip             = '';                 /* DataBase IP */
+                $db_port           = '';                 /* DataBase Port */
+                $db_user           = '';                 /* DataBase User */
+                $db_password       = '';                 /* DataBase Password */
+                $db_name           = '';                 /* DataBase Name */
                 
             /* Priavate Stuff For Law Stuff */
-                $f_name            = 'Christian';                  /* First Name */
-                $l_name            = 'Liebel';                  /* Last Name */
-                $street            = 'Albert-Schweitzer-Str. 24';                  /* Street and House Number */
-                $p_code            = '76703';                  /* Post Code & State*/
-                $country           = 'Deutschland';                 /* country */
-                $e_mail            = 'christian-liebel@web.de';                  /* Contact E-Mail */
+                $f_name            = '';                 /* First Name */
+                $l_name            = '';                 /* Last Name */
+                $street            = '';                 /* Street and House Number */
+                $p_code            = '';                 /* Post Code & State*/
+                $country           = '';                 /* country */
+                $e_mail            = '';                 /* Contact E-Mail */
 ?>
