@@ -23,7 +23,7 @@ This changes will come in the future:
   </tr>
   <tr>
     <td>including Dark- and Light-mode feature</td>
-    <td>:heavy_check_mark:done</td>
+    <td>:briefcase:on work</td>
   </tr>
   <tr>
     <td>consideration of clean code</td>
